@@ -18,6 +18,12 @@ Introduction to UNIX operating systems, the facilities, tools, and development p
 
 ## CSC_2903 (DevOps)
 
+## CSC_3300 (Database Management)
+Organization and management of large data files; data definition; database models; query languages; crash recovery; concurrency control; and case studies.
+
+## CSC_3040 (Professionalism, Communication, and Research in Computing)
+Social, ethical, and career aspects of computing.  Written, oral, and audio-visual communication in computer science; presentation techniques, report preparation, and technical correspondence.  Introduction to research in computing.
+
 
 
 
