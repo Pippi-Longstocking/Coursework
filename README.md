@@ -35,7 +35,7 @@ Social, ethical, and career aspects of computing.  Written, oral, and audio-visu
 ### Description 
 A unified survey of AI methods and applications; search and problem solving; knowledge representation; methods of reasoning, planning and uncertainty; learning, perception and communication; and rational agents
 #### Program_1
-Implements a genetic algorithm to solve the traveling salesman problem. Mutation is avoided by iterating over chromosome and replacing duplicate cities with unique cities.
+Implements a genetic algorithm to solve the traveling salesman problem. Mutation is avoided by iterating over chromosomes and replacing duplicate cities with unique cities.
 #### Program_2
 Implements a value iteration algorithm to obtain the optimal policy of the maze below. 
 
