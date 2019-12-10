@@ -32,6 +32,6 @@ Implements a genetic algorithm to solve the traveling salesman problem. Mutation
 #### Program_2
 Implements value iteration to obtain the optimal policy of the maze below. 
 
-![program2] (include/Program2_pic.png)
+![program2] (https://github.com/jacobmaniscalco/Coursework/blob/master/include/Program2_pic.png)
 
 
