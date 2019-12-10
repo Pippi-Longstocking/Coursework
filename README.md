@@ -37,7 +37,7 @@ A unified survey of AI methods and applications; search and problem solving; kno
 #### Program_1
 Implements a genetic algorithm to solve the traveling salesman problem. Mutation is avoided by iterating over chromosome and replacing duplicate cities with unique cities.
 #### Program_2
-Implements value iteration to obtain the optimal policy of the maze below. 
+Implements a value iteration algorithm to obtain the optimal policy of the maze below. 
 
 ![program2](https://github.com/jacobmaniscalco/Coursework/blob/master/include/Program2_pic.png)
 
